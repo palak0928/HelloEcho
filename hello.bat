@@ -1,2 +1,2 @@
-Echo "hello world"
-Echo "Defect branch"
+echo "hello world"
+echo "Defect branch"
